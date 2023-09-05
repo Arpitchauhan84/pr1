@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: silver;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+.main{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    gap: 10px;
+    cursor: pointer;
+    margin: 50px;
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#black{
+    background-color: black;
+}
+#yellow{
+    background-color: yellow;
+}
+#pink{
+    background-color: pink;
+}
